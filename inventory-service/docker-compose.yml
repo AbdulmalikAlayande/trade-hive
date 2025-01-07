@@ -1,12 +1,12 @@
-version: '4'
+version: '3.8'
 services:
   inventory_service_db:
     image: postgres:latest
     container_name: inventory
     environment:
-      POSTGRES_USER: admin
-      POSTGRES_PASSWORD: admin
-      POSTGRES_DB: inventory_service
+      POSTGRES_USER: abolade
+      POSTGRES_PASSWORD: ayanniyi20
+      POSTGRES_DB: inventory_service_db
     ports:
       - "5433:5432"
     volumes:
