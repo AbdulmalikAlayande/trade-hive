@@ -1,4 +1,4 @@
-package com.benabbou.microservices.order.dto;
+package app.bola.orderservice.dto;
 
 import java.math.BigDecimal;
 

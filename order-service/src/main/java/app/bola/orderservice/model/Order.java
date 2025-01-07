@@ -1,4 +1,4 @@
-package com.benabbou.microservices.order.model;
+package app.bola.orderservice.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

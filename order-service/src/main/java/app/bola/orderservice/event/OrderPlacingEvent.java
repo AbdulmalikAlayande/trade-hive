@@ -1,4 +1,4 @@
-package com.benabbou.microservices.order.event;
+package app.bola.orderservice.event;
 
 
 import lombok.AllArgsConstructor;

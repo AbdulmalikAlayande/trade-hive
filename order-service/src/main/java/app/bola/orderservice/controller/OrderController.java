@@ -1,7 +1,7 @@
-package com.benabbou.microservices.order.controller;
+package app.bola.orderservice.controller;
 
-import com.benabbou.microservices.order.dto.OrderRequest;
-import com.benabbou.microservices.order.service.OrderService;
+import app.bola.orderservice.dto.OrderRequest;
+import app.bola.orderservice.service.OrderService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;

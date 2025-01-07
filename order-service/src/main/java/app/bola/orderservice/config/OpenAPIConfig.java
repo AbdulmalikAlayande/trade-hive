@@ -1,4 +1,4 @@
-package com.benabbou.microservices.order.config;
+package app.bola.orderservice.config;
 
 import io.swagger.v3.oas.models.ExternalDocumentation;
 import io.swagger.v3.oas.models.OpenAPI;

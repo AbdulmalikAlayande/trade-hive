@@ -1,4 +1,4 @@
-package com.benabbou.microservices.order;
+package app.bola.orderservice;
 
 import io.restassured.RestAssured;
 import io.restassured.parsing.Parser;

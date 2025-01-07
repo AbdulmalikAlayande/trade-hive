@@ -1,10 +1,10 @@
-# Spring Boot Microservices E-Commerce Project
+# TradeHive - A Microservices E-Commerce App
 
 This project is a microservices-based e-commerce system built with Spring Boot and deployed on Kubernetes. The application uses JWT-based security, ensuring secure communication between microservices.
 
 ## Prerequisites
 - Docker
-- Kubernetes (Kind)
+- Kubernetes
 - Docker Hub account
 - Mail host credentials for the email service
 

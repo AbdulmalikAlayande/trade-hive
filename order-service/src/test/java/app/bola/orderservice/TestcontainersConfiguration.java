@@ -1,4 +1,4 @@
-package com.benabbou.microservices.order;
+package app.bola.orderservice;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;

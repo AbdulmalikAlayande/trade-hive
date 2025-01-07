@@ -1,10 +1,10 @@
-package com.benabbou.microservices.order.service;
+package app.bola.orderservice.service;
 
-import com.benabbou.microservices.order.dto.OrderRequest;
-import com.benabbou.microservices.order.event.OrderPlacingEvent;
-import com.benabbou.microservices.order.feignclient.InventoryClient;
-import com.benabbou.microservices.order.model.Order;
-import com.benabbou.microservices.order.repository.OrderRepository;
+import app.bola.orderservice.dto.OrderRequest;
+import app.bola.orderservice.event.OrderPlacingEvent;
+import app.bola.orderservice.feignclient.InventoryClient;
+import app.bola.orderservice.model.Order;
+import app.bola.orderservice.repository.OrderRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.core.KafkaTemplate;

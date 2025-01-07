@@ -1,4 +1,4 @@
-package com.benabbou.microservices.order;
+package app.bola.orderservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

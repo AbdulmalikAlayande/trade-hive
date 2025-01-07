@@ -1,4 +1,4 @@
-package com.benabbou.microservices.order.feignclient;
+package app.bola.orderservice.feignclient;
 
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import io.github.resilience4j.retry.annotation.Retry;
